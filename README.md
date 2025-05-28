@@ -1,4 +1,3 @@
-```markdown
 # 💰 Personal Finance Analyzer with Chatbot 🤖
 
 An interactive Streamlit application to analyze personal bank statements and chat with an AI-powered assistant to gain financial insights.
@@ -20,24 +19,6 @@ An interactive Streamlit application to analyze personal bank statements and cha
     - "What was my highest expense?"
     - "How much did I save in March?"
     - "What are my top spending categories?"
-
----
-
-## 📁 Project Structure
-
-```
-
-📦 finance-analyzer/
-├── statement1.json            # Sample bank statement JSON
-├── statement2.json
-├── statement3.json
-├── .env                       # Contains Google Gemini API key
-├── app.py                    # Main Streamlit application
-├── statement3.json
-└── README.md                 # Project documentation
-
-
-````
 
 ---
 
