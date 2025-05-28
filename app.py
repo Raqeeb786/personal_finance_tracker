@@ -11,7 +11,7 @@ import random
 
 # --- SETUP ---
 load_dotenv()
-api_key = os.getenv("GOOGLE_API_KEY") #or "AIzaSyBWxMk58MMPnu7wysCsY00bWNM4rV5MTnA"
+api_key = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=api_key)
 
 # Session state initialization
