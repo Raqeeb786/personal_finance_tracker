@@ -1,0 +1,259 @@
+{
+  "accountHolder": {
+    "name": "Md Sajid Ali",
+    "accountNumber": "7230420250",
+    "bankName": "Bandhan Bank",
+    "currency": "INR"
+  },
+  "statementPeriod": {
+    "startDate": "2024-01-01",
+    "endDate": "2024-03-31"
+  },
+  "transactions": [
+    {
+      "date": "2024-01-03",
+      "description": "Mutual Fund Investment",
+      "type": "credit",
+      "amount": 1793.68,
+      "balance": 11793.68
+    },
+    {
+      "date": "2024-01-05",
+      "description": "Credit Card Payment",
+      "type": "credit",
+      "amount": 2800.27,
+      "balance": 14593.95
+    },
+    {
+      "date": "2024-01-08",
+      "description": "Paycheck",
+      "type": "credit",
+      "amount": 3445.07,
+      "balance": 18039.02
+    },
+    {
+      "date": "2024-01-12",
+      "description": "UPI Payment",
+      "type": "debit",
+      "amount": 2600.27,
+      "balance": 15438.75
+    },
+    {
+      "date": "2024-01-15",
+      "description": "Electricity Bill",
+      "type": "debit",
+      "amount": 4908.35,
+      "balance": 10530.4
+    },
+    {
+      "date": "2024-01-17",
+      "description": "Water Bill",
+      "type": "debit",
+      "amount": 3360.76,
+      "balance": 7169.64
+    },
+    {
+      "date": "2024-01-19",
+      "description": "ATM Withdrawal",
+      "type": "debit",
+      "amount": 3081.66,
+      "balance": 4087.98
+    },
+    {
+      "date": "2024-01-20",
+      "description": "Grocery Store",
+      "type": "credit",
+      "amount": 4844.39,
+      "balance": 8932.37
+    },
+    {
+      "date": "2024-01-22",
+      "description": "NEFT Transfer",
+      "type": "debit",
+      "amount": 390.02,
+      "balance": 8542.35
+    },
+    {
+      "date": "2024-01-25",
+      "description": "Mobile Recharge",
+      "type": "credit",
+      "amount": 4655.89,
+      "balance": 13198.24
+    },
+    {
+      "date": "2024-01-27",
+      "description": "Cash Deposit",
+      "type": "debit",
+      "amount": 2359.6,
+      "balance": 10838.64
+    },
+    {
+      "date": "2024-01-30",
+      "description": "Movie Tickets",
+      "type": "credit",
+      "amount": 469.98,
+      "balance": 11308.62
+    },
+    {
+      "date": "2024-02-02",
+      "description": "Water Bill",
+      "type": "debit",
+      "amount": 1034.22,
+      "balance": 10274.4
+    },
+    {
+      "date": "2024-02-05",
+      "description": "Cash Deposit",
+      "type": "credit",
+      "amount": 1428.06,
+      "balance": 11702.46
+    },
+    {
+      "date": "2024-02-09",
+      "description": "Paycheck",
+      "type": "credit",
+      "amount": 3169.81,
+      "balance": 14872.27
+    },
+    {
+      "date": "2024-02-13",
+      "description": "Fuel Station",
+      "type": "credit",
+      "amount": 2153.79,
+      "balance": 17026.06
+    },
+    {
+      "date": "2024-02-16",
+      "description": "NEFT Transfer",
+      "type": "debit",
+      "amount": 441.81,
+      "balance": 16584.25
+    },
+    {
+      "date": "2024-02-18",
+      "description": "Paycheck",
+      "type": "debit",
+      "amount": 4492.93,
+      "balance": 12091.32
+    },
+    {
+      "date": "2024-02-20",
+      "description": "Paycheck",
+      "type": "credit",
+      "amount": 1476.98,
+      "balance": 13568.3
+    },
+    {
+      "date": "2024-02-24",
+      "description": "Grocery Store",
+      "type": "debit",
+      "amount": 841.33,
+      "balance": 12726.97
+    },
+    {
+      "date": "2024-02-26",
+      "description": "Internet Bill",
+      "type": "credit",
+      "amount": 818.08,
+      "balance": 13545.05
+    },
+    {
+      "date": "2024-02-29",
+      "description": "Internet Bill",
+      "type": "credit",
+      "amount": 645.15,
+      "balance": 14190.2
+    },
+    {
+      "date": "2024-03-02",
+      "description": "Dining - Restaurant",
+      "type": "credit",
+      "amount": 2793.56,
+      "balance": 16983.76
+    },
+    {
+      "date": "2024-03-03",
+      "description": "Loan EMI",
+      "type": "debit",
+      "amount": 2361.46,
+      "balance": 14622.3
+    },
+    {
+      "date": "2024-03-04",
+      "description": "ATM Withdrawal",
+      "type": "debit",
+      "amount": 2963.7,
+      "balance": 11658.6
+    },
+    {
+      "date": "2024-03-08",
+      "description": "Fuel Station",
+      "type": "debit",
+      "amount": 4719.11,
+      "balance": 6939.49
+    },
+    {
+      "date": "2024-03-11",
+      "description": "IMPS Transfer",
+      "type": "credit",
+      "amount": 3201.94,
+      "balance": 10141.43
+    },
+    {
+      "date": "2024-03-14",
+      "description": "Fuel Station",
+      "type": "debit",
+      "amount": 3659.87,
+      "balance": 6481.56
+    },
+    {
+      "date": "2024-03-18",
+      "description": "Loan EMI",
+      "type": "credit",
+      "amount": 3111.62,
+      "balance": 9593.18
+    },
+    {
+      "date": "2024-03-22",
+      "description": "Subscription - Netflix",
+      "type": "credit",
+      "amount": 1200.58,
+      "balance": 10793.76
+    },
+    {
+      "date": "2024-03-25",
+      "description": "UPI Payment",
+      "type": "debit",
+      "amount": 3408.21,
+      "balance": 7385.55
+    },
+    {
+      "date": "2024-03-26",
+      "description": "Mobile Recharge",
+      "type": "debit",
+      "amount": 3555.48,
+      "balance": 3830.07
+    },
+    {
+      "date": "2024-03-28",
+      "description": "Mutual Fund Investment",
+      "type": "credit",
+      "amount": 4714.44,
+      "balance": 8544.51
+    },
+    {
+      "date": "2024-03-29",
+      "description": "ATM Withdrawal",
+      "type": "debit",
+      "amount": 3116.51,
+      "balance": 5428.0
+    },
+    {
+      "date": "2024-03-31",
+      "description": "UPI Payment",
+      "type": "debit",
+      "amount": 3148.51,
+      "balance": 2279.49
+    }
+  ]
+}
