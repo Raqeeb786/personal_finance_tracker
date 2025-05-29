@@ -71,15 +71,22 @@ streamlit run app.py
 
 ### 🧾 Upload or Load Statement
 
-![upload](https://via.placeholder.com/800x300?text=Upload+or+Load+Sample+Data)
+![image](https://github.com/user-attachments/assets/cb96d911-c05a-46f2-a986-9b4afb944e21)
+![Screenshot 2025-05-29 123750](https://github.com/user-attachments/assets/9fac0b73-af0a-4e98-b7d1-85b13a3e613c)
+
+
 
 ### 📊 Financial Dashboard
 
-![dashboard](https://via.placeholder.com/800x300?text=Visual+Insights+and+Metrics)
+![Screenshot 2025-05-29 125127](https://github.com/user-attachments/assets/6ebaa5a2-6771-42c7-b4c4-c1322a423021)
+![Screenshot 2025-05-29 125147](https://github.com/user-attachments/assets/b3cb6da9-5436-43bf-a702-4a374b469743)
+
 
 ### 🤖 Chatbot Interface
 
-![chatbot](https://via.placeholder.com/800x300?text=Chat+with+Finance+Bot)
+![Screenshot 2025-05-29 125147](https://github.com/user-attachments/assets/e733bf92-0ae5-4576-ae27-3c286a2d835b)
+![Screenshot 2025-05-29 125509](https://github.com/user-attachments/assets/bcde70fa-4593-4420-bd38-7e5b53fdf566)
+
 
 ---
 
