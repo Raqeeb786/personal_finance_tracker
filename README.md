@@ -71,8 +71,10 @@ streamlit run app.py
 
 ### 🧾 Upload or Load Statement
 
-![image](https://github.com/user-attachments/assets/cb96d911-c05a-46f2-a986-9b4afb944e21)
-![Screenshot 2025-05-29 123750](https://github.com/user-attachments/assets/9fac0b73-af0a-4e98-b7d1-85b13a3e613c)
+![Screenshot 2025-05-29 123623](https://github.com/user-attachments/assets/49eb9740-3cbf-4d87-a043-c12bf7c5e63f)
+![Screenshot 2025-05-29 123750](https://github.com/user-attachments/assets/0db04eaf-7932-485b-8d28-89c4228a3ff8)
+
+
 
 
 
@@ -84,8 +86,9 @@ streamlit run app.py
 
 ### 🤖 Chatbot Interface
 
-![Screenshot 2025-05-29 125147](https://github.com/user-attachments/assets/e733bf92-0ae5-4576-ae27-3c286a2d835b)
-![Screenshot 2025-05-29 125509](https://github.com/user-attachments/assets/bcde70fa-4593-4420-bd38-7e5b53fdf566)
+![Screenshot 2025-05-29 125234](https://github.com/user-attachments/assets/0e811b33-f6a5-483a-8d78-789a4a10e043)
+![Screenshot 2025-05-29 125509](https://github.com/user-attachments/assets/77080a7c-87db-484a-a0f6-2ea838115183)
+
 
 
 ---
