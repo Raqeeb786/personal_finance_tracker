@@ -27,7 +27,7 @@ An interactive Streamlit application to analyze personal bank statements and cha
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Raqeeb786/finan
+git clone https://github.com/Raqeeb786/personal_finance_tracker
 ````
 
 ### 2. Create and Activate a Virtual Environment
@@ -51,10 +51,10 @@ pip install streamlit pandas matplotlib seaborn python-dotenv google-generativea
 
 ### 4. Add Your API Key
 
-Create a `.env` file in the root directory:
+Generate your Google API key from Google AI studio and Create a `.env` file in the root directory (add your api):
 
 ```
-GOOGLE_API_KEY=your_gemini_api_key
+GOOGLE_API_KEY= your_gemini_api_key
 ```
 
 ---
